@@ -1,0 +1,7 @@
+Create a view which acts as a container
+create a card for products which will be imported as element
+using fetch nd store the response to local storage for api
+create a card for header which will contain total cost and total items
+        on clicking on header card a floating view will be visible which supports deletion of items
+Mantain a cart object in local storage liek
+{prod_name:"",qty:"",cost_pi:"per item cost",total_cost:qty*cost_pi}`
